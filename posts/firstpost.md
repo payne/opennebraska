@@ -14,7 +14,7 @@ Bring to the table win-win survival strategies to ensure proactive domination. A
 
 Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
 
-``` text/2-3
+```javascript {.line-numbers}
 // this is a command
 function myCommand() {
 	let counter = 0;
@@ -24,3 +24,15 @@ function myCommand() {
 // Test with a line break above this line.
 console.log('Test');
 ```
+
+## Demo
+
+https://shd101wyy.github.io/markdown-preview-enhanced/#/markdown-basics?id=lineno from 
+
+
+```javascript {.line-numbers}
+function add(x, y) {
+  return x + y;
+}
+```
+
